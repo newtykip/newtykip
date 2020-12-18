@@ -11,7 +11,7 @@ i'm a femboy streamer and programmer from the united kingdom. my preferred prono
 
 i have been programming since i was nine and i'm currently trying to diversify and learn new programming languages. i love using node.js and java.
 
-i enjoy playing games like <a href="https://osu.ppy.sh/users/16009610">osu</a> (<a href="http://osuskills.com/user/newtt">skills</a>), overwatch, minecraft, and terraria. i also play guitar and tweet a lot on my <a href="https://twitter.com/newtykins">twitter</a>.
+i enjoy playing games like <a href="https://osu.ppy.sh/users/16009610">osu</a> (<a href="http://osuskills.com/user/Newt x3">skills</a>), minecraft, and terraria. i also play guitar and tweet a lot on my <a href="https://twitter.com/newtykins">twitter</a>.
 
 thanks for checking my profile out c:
 </span>
