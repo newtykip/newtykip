@@ -4,7 +4,7 @@
 <div align="center">
     <img src="https://github.com/newtykins/newtykins/blob/master/doggo.gif?raw=true" height="250">
     <br>
-    <a href=""><img src="https://img.shields.io/github/followers/newtykins?color=black&label=Follow%20Me%21&logo=github&style=for-the-badge"></a>
+    <img src="https://img.shields.io/github/followers/newtykins?color=black&label=Follow%20Me%21&logo=github&style=for-the-badge">
 </div>
 
 <h2 align="center">~ About Me! ~</h2>
