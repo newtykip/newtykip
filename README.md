@@ -17,10 +17,7 @@
 
 Minor. Developer of <a href="https://github.com/newtykins/kano">Kano</a> and related Discord bots! Administrator for three years at The Venting Forest. Feel free to send me a message on Discord (newt <3#1234)
 
-<br><br><br>
-
-<div align="center">
+<br>
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=31f5j3pn6dafanybum4r4fwsppea&cover_image=true&theme=default">
-</div>
 
 </body>
