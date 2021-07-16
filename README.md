@@ -10,6 +10,11 @@
 
 <br>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br>
+
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=newtykins&show_icons=true&locale=en&layout=compact" alt="newtykins">
     <img src="https://github-readme-stats.vercel.app/api?username=newtykins&show_icons=true&locale=en" alt="newtykins" width="420">
