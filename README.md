@@ -1,23 +1,14 @@
-<body style="font-family:Poppins;">
-<h1 align="center">~ Welcome to my Profile! ~</h1>
-
 <div align="center">
-    <img src="https://github.com/newtykins/newtykins/blob/master/doggo.gif?raw=true" height="250">
-    <br>
-    <img src="https://img.shields.io/github/followers/newtykins?color=black&label=Follow%20Me%21&logo=github&style=for-the-badge">
+    <p>
+        <span style="font-size:30px;">🌸 Hey, I'm newt</span><br>
+        <span style="font-size:25px;font-weight:lighter;">Minor. Programmer. Streamer.</span><br>
+        <span style="font-size:20px;font-weight:lighter;">he/they</span>
+    </p>
+    <img src="https://newtt.me/assets/img/cat.gif" height="250"><br>
+    <img src="https://komarev.com/ghpvc/?username=newtykins&color=FAC151" alt="Profile Views" style="margin-top:30px;">
 </div>
 
-<h2 align="center">~ About Me! ~</h2>
-
-<img align="right" src="https://github.com/newtykins/newtykins/blob/master/foxxo.gif?raw=true" height="250">
-
-<li><b>Name:</b> newt!</li>
-<li><b>Pronouns:</b> he/him</li>
-<li><b>Hobbies:</b> coding, music, <a href="https://osu.ppy.sh/users/16009610">osu!</a>
-
-Minor. Developer of <a href="https://github.com/newtykins/kano">Kano</a> and related Discord bots! Administrator for three years at The Venting Forest. Feel free to send me a message on Discord (newt <3#1234)
-
-<br>
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31f5j3pn6dafanybum4r4fwsppea&cover_image=true&theme=default">
-
-</body>
+<div style="margin-top:30px;clear:both;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=newtykins&show_icons=true&locale=en&layout=compact" alt="newtykins" style="float:left;">
+    <img src="https://github-readme-stats.vercel.app/api?username=newtykins&show_icons=true&locale=en" alt="newtykins" style="float:right;width:420px;height:166.5px">
+</div>
