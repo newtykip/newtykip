@@ -9,6 +9,6 @@ jobs:
     name: Update osu! rank using osu!profile
     runs-on: ubuntu-latest
     steps:
-      - uses: newtykins/osu-profile@1.0
+      - uses: newtykins/osu-profile@main
         with:
           ID: '16009610'
