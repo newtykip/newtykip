@@ -1,6 +1,6 @@
 <div align="center">
     <p>
-        <h1>p8 Hey, I'm newt</h1>
+        <h1>🌸 Hey, I'm newt</h1>
         <h3>Minor. Programmer. Streamer.</h3>
         <span>he/they</span><br><br>
         <span>osu! rank <!--osu-global-rank-->#80,200<!--osu-global-rank--></span>
