@@ -11,9 +11,49 @@
 <br>
 
 <!--START_SECTION:waka-->
+**🐱 My Github Data** 
+
+> 🏆 240 Contributions in the Year 2021
+ > 
+> 📦 237.1 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 30 Public Repositories 
+ > 
+> 🔑 14 Private Repositories  
+ > 
+📊 **This Week I Spent My Time On** 
+
 ```text
-No Activity tracked this Week
+⌚︎ Time Zone: Europe/London
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
 ```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               17 repos            ███████████░░░░░░░░░░░░░░   47.22% 
+TypeScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   27.78% 
+Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.78%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/newtykins/newtykins/master/charts/bar_graph.png) 
+
+
+ Last Updated on 17/07/2021
 <!--END_SECTION:waka-->
 
 <br>
