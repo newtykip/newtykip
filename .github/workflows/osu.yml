@@ -1,0 +1,14 @@
+name: osu! rank
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update osu! rank using osu!profile
+    runs-on: ubuntu-latest
+    steps:
+      - uses: osu-profile@1.0
+        with:
+          ID: '16009610'
