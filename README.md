@@ -19,4 +19,34 @@
 <br>
 
 <!--START_SECTION:waka-->
+**🐱 My Github Data** 
+
+> 🏆 240 Contributions in the Year 2021
+ > 
+> 📦 237.1 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 30 Public Repositories 
+ > 
+> 🔑 14 Private Repositories  
+ > 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+```
+
+
+ Last Updated on 17/07/2021
 <!--END_SECTION:waka-->
