@@ -4,7 +4,7 @@
         <h3>Minor. Programmer. Streamer.</h3>
         <p>
 			he/they <br>
-			osu! rank <strong>#<!--osu-global-rank-->62,344<!--osu-global-rank--></strong>
+			osu! rank <strong>#<!--osu-global-rank-->62,379<!--osu-global-rank--></strong>
 		</p>
     </p>
     <img src="dog.gif" height="250"><br><br>
