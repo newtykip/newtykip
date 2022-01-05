@@ -9,7 +9,7 @@
 		<h3>Contact me on <a href="https://discord.gg/brEhN5Y7YK">Discord</a></h3>
     </p>
     <img src="dog.gif" height="250"><br><br>
-    <img src="https://api.ghprofile.me/view?username=newtykins&color=2E3440&label=profile_views" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=newtykins&style=flat-square&color=000000" alt="Profile Views">
 </div>
 
 <div align="center">
@@ -17,5 +17,5 @@
 </div>
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=newtykins&show_icons=true&locale=en&theme=dark&hide_border=true" alt="newtykins" width="420">
+	<img src="https://github-readme-stats.vercel.app/api?username=newtykins&show_icons=true&locale=en&theme=dark&hide_border=true&count_private=true&custom_title=My Stats&line_height=25" alt="newtykins" width="420">
 </div>
