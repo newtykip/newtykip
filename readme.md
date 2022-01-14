@@ -4,7 +4,7 @@
         <h3>Minor. Programmer. Streamer.</h3>
         <p>
 			he/they <br>
-			osu! rank <strong>#<!--osu-global-rank-->62,083<!--osu-global-rank--></strong>
+			osu! rank <strong>#<!--osu-global-rank-->62,111<!--osu-global-rank--></strong>
 		</p>
 		<h3>Contact me on <a href="https://discord.gg/brEhN5Y7YK">Discord</a></h3>
     </p>
