@@ -13,9 +13,10 @@
 </div>
 
 <div align="center">
-	<h3>I ♥ Open Source</h3>
+	<img src="https://readme-typing-svg.herokuapp.com?color=AAF0D1&center=true&vCenter=true&lines=I+%E2%99%A5+Open+Source">
 </div>
 
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=newtykins&show_icons=true&locale=en&theme=dark&hide_border=true&count_private=true&custom_title=My Stats&line_height=25" alt="newtykins" width="420">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=newtykins&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=dark" width="420">
 </div>
