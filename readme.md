@@ -1,7 +1,6 @@
 <div align="center">
     <p>
-        <h1>🌸 Hey, I'm newt</h1>
-        <h3>Minor. Programmer. Streamer.</h3>
+        <h1>✨ Hey, I'm newt!</h1>
         <p>
 			he/they <br>
 			osu! rank <strong>#<!--osu-global-rank-->55,323<!--osu-global-rank--></strong>
@@ -10,10 +9,7 @@
     </p>
     <img src="dog.gif" height="250"><br><br>
     <img src="https://komarev.com/ghpvc/?username=newtykins&style=flat-square&color=000000" alt="Profile Views">
-</div>
-
-<div align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?color=AAF0D1&center=true&vCenter=true&lines=I+%E2%99%A5+Open+Source">
+    <br><br>
 </div>
 
 <div align="center">
