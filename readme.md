@@ -3,7 +3,7 @@
         <h1>✨ Hey, I'm newt!</h1>
         <p>
 			he/they <br>
-			osu! rank <strong>#<!--osu-global-rank-->52,871<!--osu-global-rank--></strong>
+			osu! rank <strong>#<!--osu-global-rank-->52,923<!--osu-global-rank--></strong>
 		</p>
 		<h3>Contact me on <a href="https://discord.gg/brEhN5Y7YK">Discord</a></h3>
     </p>
