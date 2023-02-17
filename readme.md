@@ -5,7 +5,7 @@
         </h2>
         <p>
 			he/they <br>
-			osu! rank <strong>#<!--osu-global-rank-->56,671<!--osu-global-rank--></strong>
+			osu! rank <strong>#<!--osu-global-rank-->56,696<!--osu-global-rank--></strong>
 		</p>
 		<h3>Contact me on <a href="https://discord.gg/brEhN5Y7YK">Discord</a></h3>
     </p>
