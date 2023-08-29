@@ -25,11 +25,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Rust              6 hrs 26 mins   ███████████▓░░░░░░░░░░░░░   46.14 %
-Svelte            5 hrs 35 mins   ██████████░░░░░░░░░░░░░░░   40.12 %
-TypeScript        1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
-ActionScript 3    12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-JavaScript        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Rust              6 hrs 33 mins   ███████████▓░░░░░░░░░░░░░   46.16 %
+Svelte            5 hrs 44 mins   ██████████░░░░░░░░░░░░░░░   40.37 %
+TypeScript        1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
+ActionScript 3    12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+JavaScript        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
