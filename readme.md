@@ -34,10 +34,14 @@ ActionScript      0 secs          ▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<div align="center">
-    <h3>Contact me on <a href="https://discord.gg/brEhN5Y7YK">Discord</a></h3>
-    <img src="https://komarev.com/ghpvc/?username=newtykins&style=for-the-badge&color=b28dff" alt="Profile Views">
-    <br/><br/>
-    <img src="dog.gif" height="250">
-</div>
+### A little about me...
 
+- 17-year-old Computer Science student from the United Kingdom
+- Backend Developer/Systems Administrator at [SylvanCraft](https://sylvancraft.net/)
+- I stream on [Twitch](https://twitch.tv/newtykin) sometimes
+- I love cats :]
+
+
+<div align="center">
+    <a href="https://github.com/SylvanCraft"><img src="img/sylvancraft.png" height="50"></a>
+</div>
