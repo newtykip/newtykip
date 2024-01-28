@@ -25,7 +25,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Svelte       34 mins         ██████████████░░░░░░░░░░░   56.10 %
+Rust         11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.08 %
+Makefile     8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.12 %
+JSON         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+TypeScript   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
 ```
 
 <!--END_SECTION:waka-->
