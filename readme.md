@@ -37,10 +37,9 @@ Bash            20 mins         ▒░░░░░░░░░░░░░░░
 ### A little about me...
 
 - 17-year-old Computer Science student from the United Kingdom
-- Backend Developer/Systems Administrator at [SylvanCraft](https://sylvancraft.net/)
+- You can find my current FOSS projects on [codeberg](https://codeberg.org/newt)
 - I stream on [Twitch](https://twitch.tv/newtykin) sometimes
 - I love cats :]
-
 
 <div align="center">
     <a href="https://github.com/SylvanCraft"><img src="img/sylvancraft.png" height="50"></a>
