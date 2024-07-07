@@ -25,11 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         1 hr 16 mins    ███████████████▒░░░░░░░░░   61.95 %
-Bash         30 mins         ██████░░░░░░░░░░░░░░░░░░░   24.45 %
-Text         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
-Caddyfile    7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
