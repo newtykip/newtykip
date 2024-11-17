@@ -25,11 +25,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Astro         7 hrs 17 mins   ██████░░░░░░░░░░░░░░░░░░░   23.83 %
-Markdown      5 hrs 53 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.28 %
-TypeScript    5 hrs 24 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.69 %
-Svelte        4 hrs 17 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
-Rust          2 hrs 57 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
+Markdown      5 hrs 45 mins   ██████░░░░░░░░░░░░░░░░░░░   23.63 %
+Astro         4 hrs 51 mins   █████░░░░░░░░░░░░░░░░░░░░   19.99 %
+TypeScript    4 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   19.77 %
+Rust          2 hrs 57 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
+Svelte        2 hrs 25 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
 ```
 
 <!--END_SECTION:waka-->
