@@ -25,11 +25,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          3 hrs 39 mins   ██████████████▒░░░░░░░░░░   57.98 %
-Python            1 hr 24 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.35 %
-Rust              1 hr 2 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.56 %
-JSON              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Protocol Buffer   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Markdown   3 hrs 34 mins   ██████████████████████▒░░   89.22 %
+Python     25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
 ```
 
 <!--END_SECTION:waka-->
