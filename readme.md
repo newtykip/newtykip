@@ -33,11 +33,11 @@ I spend a decent amount of time developing - why don't you look for yourself:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     5 hrs 47 mins   ███████████▓░░░░░░░░░░░░░   46.50 %
-Rust         2 hrs 45 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.09 %
-Python       1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
-Astro        55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
-TypeScript   32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+Markdown     4 hrs 39 mins   █████████████▒░░░░░░░░░░░   53.77 %
+Rust         2 hrs 45 mins   ████████░░░░░░░░░░░░░░░░░   31.76 %
+TypeScript   32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+Astro        19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->
