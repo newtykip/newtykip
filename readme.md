@@ -33,11 +33,11 @@ I spend a decent amount of time developing - why don't you look for yourself:
 <!--START_SECTION:waka-->
 
 ```txt
-Python            8 hrs 58 mins   ███████▓░░░░░░░░░░░░░░░░░   30.33 %
-Java              8 hrs 1 min     ██████▓░░░░░░░░░░░░░░░░░░   27.09 %
-Markdown          5 hrs 2 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.05 %
-Rust              4 hrs 43 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.94 %
-Kotlin            51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Java              10 hrs 27 mins  █████████▒░░░░░░░░░░░░░░░   36.76 %
+Python            8 hrs 58 mins   ████████░░░░░░░░░░░░░░░░░   31.59 %
+Markdown          4 hrs 23 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
+Rust              1 hr 44 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+Kotlin            58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
 ```
 
 <!--END_SECTION:waka-->
