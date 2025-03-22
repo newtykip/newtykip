@@ -33,11 +33,11 @@ I spend a decent amount of time developing - why don't you look for yourself:
 <!--START_SECTION:waka-->
 
 ```txt
-Assembly     3 hrs 13 mins   ███████░░░░░░░░░░░░░░░░░░   28.31 %
-Python       2 hrs 16 mins   █████░░░░░░░░░░░░░░░░░░░░   19.99 %
-Markdown     2 hrs 16 mins   █████░░░░░░░░░░░░░░░░░░░░   19.92 %
-Rust         1 hr 33 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 %
-Other        45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+Assembly     3 hrs 13 mins   ███████░░░░░░░░░░░░░░░░░░   28.66 %
+Python       2 hrs 16 mins   █████░░░░░░░░░░░░░░░░░░░░   20.24 %
+Markdown     2 hrs 5 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.58 %
+Rust         1 hr 33 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 %
+Other        45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
 ```
 
 <!--END_SECTION:waka-->
