@@ -33,11 +33,11 @@ I spend a decent amount of time developing - why don't you look for yourself:
 <!--START_SECTION:waka-->
 
 ```txt
-Java                       2 hrs 5 mins    ███████▓░░░░░░░░░░░░░░░░░   30.20 %
-YAML                       1 hr 35 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.10 %
-Markdown                   55 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
-Caddyfile                  38 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
-JSON                       34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+Java                       2 hrs 9 mins    ██████░░░░░░░░░░░░░░░░░░░   24.04 %
+YAML                       1 hr 51 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.82 %
+Markdown                   1 hr 15 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
+Rust                       1 hr 2 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
+Caddyfile                  44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
 ```
 
 <!--END_SECTION:waka-->
