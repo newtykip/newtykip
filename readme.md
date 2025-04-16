@@ -33,11 +33,11 @@ I spend a decent amount of time developing - why don't you look for yourself:
 <!--START_SECTION:waka-->
 
 ```txt
-Astro                      5 hrs 40 mins   █████████▒░░░░░░░░░░░░░░░   37.38 %
-TypeScript                 4 hrs 12 mins   ███████░░░░░░░░░░░░░░░░░░   27.67 %
-CSS                        1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-Svelte                     1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
-JSON                       51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+Astro                      5 hrs 46 mins   ███████░░░░░░░░░░░░░░░░░░   28.48 %
+Java                       4 hrs 26 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.96 %
+TypeScript                 3 hrs 26 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.99 %
+Svelte                     1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+JSON                       1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
 ```
 
 <!--END_SECTION:waka-->
