@@ -26,7 +26,7 @@ Hi, I'm newt. I've been programming since I was 9. When I'm not doing that, I ru
 
 Check out my [personal website](https://newty.dev) for more.
 
-**I mostly use my [Forgejo](https://git.newty.dev/newt) these days.** I do not want all of my code used to train AI. I only have an account here to contribute to other's projects, ease of discovery of other's projects, and mirror some key repositories for my CV.
+**I mostly use my [GitLab Server](https://git.redstone.observer/newt) these days.** I do not want all of my code used to train AI. I only have an account here to contribute to other's projects, ease of discovery of other's projects, and mirror some key repositories for my CV.
 
 I spend a decent amount of time developing - why don't you look for yourself:
 
