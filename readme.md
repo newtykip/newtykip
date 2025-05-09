@@ -33,11 +33,11 @@ I spend a decent amount of time developing - why don't you look for yourself:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust              19 hrs 37 mins  █████████████████░░░░░░░░   68.25 %
-Terraform         2 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
-TOML              1 hr 59 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
-Markdown          1 hr 49 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
-Makefile          1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Rust              24 hrs 20 mins  ██████████████████▓░░░░░░   74.02 %
+Terraform         2 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+TOML              1 hr 47 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Markdown          1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+Makefile          1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
 ```
 
 <!--END_SECTION:waka-->
