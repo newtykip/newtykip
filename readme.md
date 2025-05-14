@@ -33,11 +33,11 @@ I spend a decent amount of time developing - why don't you look for yourself:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust              15 hrs 49 mins  █████████████████████▓░░░   87.16 %
-Markdown          56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
-TOML              40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-Bash              13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-Other             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Rust         14 hrs 13 mins  ██████████████████████░░░   88.33 %
+Markdown     51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+TOML         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+Bash         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
